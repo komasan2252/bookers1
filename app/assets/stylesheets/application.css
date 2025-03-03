@@ -18,13 +18,24 @@
   padding: 0;
   box-sizing: border-box;
 }
-p{
-  margin: 33px;
-}
-strong{
-  font-family:Verdana, Arial, Helvetica, sans-serif;
-}
+p{margin: 33px;}
+
+strong{font-family:Verdana, Arial, Helvetica, sans-serif;}
+
 body{font-size: 13px;
 line-height: 18px;
 margin: 33px;}
 
+a{color: gray;
+text-decoration: underline;}
+
+.Tou{margin-top: 10px;}
+
+
+.flash{color: darkgreen;}
+
+h2{margin-top: 10px;}
+
+table{margin: 18px;}
+
+.td{margin: 10px;}
